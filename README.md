@@ -35,4 +35,10 @@
 | Synchronized.java               | synchronized实现原理                |
 | UncaughtExceptionHandlerEx.java | UncaughtExceptionHandler示例        |
 | Deprecated.java                 | suspend()/resume()/stop()被遗弃方法 |
+| WaitNotifyDemo.java             | wait()/notify()demo                 |
+|                                 |                                     |
+|                                 |                                     |
+|                                 |                                     |
+|                                 |                                     |
+|                                 |                                     |
 
