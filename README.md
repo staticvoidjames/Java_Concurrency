@@ -5,9 +5,6 @@
 编码:UTF-8, I hate GBK  
 运行环境:Oracle jdk8
 
-#### 目录
-为了避免因英文命名导致难以找到对应源代码的问题,这里给出目录  
-
 **Thread_Basic 线程基础**
 
 | 文件名                          | 内容                                |
@@ -26,9 +23,4 @@
 | UncaughtExceptionHandlerEx.java | UncaughtExceptionHandler示例        |
 | Deprecated.java                 | suspend()/resume()/stop()被遗弃方法 |
 | WaitNotifyDemo.java             | wait()/notify()demo                 |
-|                                 |                                     |
-|                                 |                                     |
-|                                 |                                     |
-|                                 |                                     |
-|                                 |                                     |
 
